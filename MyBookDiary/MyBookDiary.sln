@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookDiary.Api", "MyBookDiary.Core\MyBookDiary.Api.csproj", "{6ACE1CF2-F560-43A5-9CAB-E36497850905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookDiary.Core", "MyBookDiary.Core\MyBookDiary.Core.csproj", "{28D766BC-08E7-4BA4-8B0D-0F5134121A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACE1CF2-F560-43A5-9CAB-E36497850905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACE1CF2-F560-43A5-9CAB-E36497850905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACE1CF2-F560-43A5-9CAB-E36497850905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACE1CF2-F560-43A5-9CAB-E36497850905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D766BC-08E7-4BA4-8B0D-0F5134121A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D766BC-08E7-4BA4-8B0D-0F5134121A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D766BC-08E7-4BA4-8B0D-0F5134121A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D766BC-08E7-4BA4-8B0D-0F5134121A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4370288-EB61-4A3A-9681-743AC2AD78AC}
+	EndGlobalSection
+EndGlobal
